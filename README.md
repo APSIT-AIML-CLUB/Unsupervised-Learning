@@ -5,19 +5,15 @@ Welcome to this repository! This project contains learning materials focused on 
 ## 📚 Contents
 
 ### 🔹 Pandas Basics
+
 - Loading datasets
 - Inspecting data (e.g., `.head()`, `.info()`, `.describe()`)
 - Data selection and filtering
 - Basic data cleaning and manipulation
-  
-### 🔹 Unsupervised Learning (Clustering)
-- **K-Means Clustering**
-  - Concept explanation
-  - How the algorithm works
-  - Practical implementation using `scikit-learn`
-  - Visualizing clusters
 
-- **Agglomerative Clustering**
-  - Introduction to hierarchical clustering
-  - Dendrograms and linkage criteria
-  - Implementation and visualization with `scipy` and `sklearn`
+### 🔹 Unsupervised Learning (K-Means Clustering)
+
+- Concept explanation
+- How the algorithm works
+- Practical implementation using `scikit-learn`
+- Visualizing clusters
